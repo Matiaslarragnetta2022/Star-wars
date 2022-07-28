@@ -1,0 +1,22 @@
+{
+  "name": "star-wars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matiaslarragnetta2022/Star-wars.git"
+  },
+  "author": "Matías-Larragnetta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Matiaslarragnetta2022/Star-wars/issues"
+  },
+  "homepage": "https://github.com/Matiaslarragnetta2022/Star-wars#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
