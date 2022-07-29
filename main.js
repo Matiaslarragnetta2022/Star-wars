@@ -50,4 +50,3 @@ async function fetchData(urlApi){
         alert('fallo llamado a la api');
     }
 })();
-	
